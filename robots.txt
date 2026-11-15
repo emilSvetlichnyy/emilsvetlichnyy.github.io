@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://emilsvetlichnyy.app/sitemap.xml
+Sitemap: https://emilsvetlichnyy.app/exif-plus/sitemap.xml
